@@ -1,0 +1,14 @@
+const styles ={
+        border: '1px solid #ccc',
+        background: 'transparent',
+        fontSize: 'inherit',
+        fontFamily: 'inherit',
+        color: 'inherit',
+        padding: '2px 4px',
+        margin: 0,
+        outline: 'none',
+        borderRadius: '4px',
+        width: 'auto',
+        boxShadow: 'none',
+        textAlign: 'center',
+      }
